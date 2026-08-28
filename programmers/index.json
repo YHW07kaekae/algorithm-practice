@@ -16,5 +16,14 @@
     "status": "passed",
     "path": "programmers/코딩 기초 트레이닝/[Lv0][181922] 수열과 구간 쿼리 4",
     "lastRun": "2026-08-27T04:31:51.747Z"
+  },
+  {
+    "lessonId": "181920",
+    "title": "카운트 업",
+    "level": "0",
+    "category": "코딩 기초 트레이닝",
+    "status": "passed",
+    "path": "programmers/코딩 기초 트레이닝/[Lv0][181920] 카운트 업",
+    "lastRun": "2026-08-28T08:04:30.613Z"
   }
 ]
