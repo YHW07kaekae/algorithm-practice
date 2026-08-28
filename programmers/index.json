@@ -25,5 +25,14 @@
     "status": "passed",
     "path": "programmers/코딩 기초 트레이닝/[Lv0][181920] 카운트 업",
     "lastRun": "2026-08-28T08:04:30.613Z"
+  },
+  {
+    "lessonId": "181919",
+    "title": "콜라츠 수열 만들기",
+    "level": "0",
+    "category": "코딩 기초 트레이닝",
+    "status": "passed",
+    "path": "programmers/코딩 기초 트레이닝/[Lv0][181919] 콜라츠 수열 만들기",
+    "lastRun": "2026-08-28T08:22:20.120Z"
   }
 ]
